@@ -27,5 +27,7 @@ Create a custom VPC with public and private subnets, set up internet access, and
 🧹 Cleanup
 Terminate EC2s → Delete NAT Gateway → Release EIP → Delete IGW, route tables, subnets, SGs, and VPC.
 
+## 🖼️ Architecture Diagram
 ![AWS VPC Diagram](architecture/vpc-network-diagram.gif)
-*AWS VPC network architecture showing public/private subnets and NAT flow.*
+*Updated public/private subnet layout with Bastion Host, NAT Gateway, and IGW.*
+*
