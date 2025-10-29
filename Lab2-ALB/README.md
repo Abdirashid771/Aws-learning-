@@ -34,5 +34,6 @@ Delete ALB → Target Group → EC2s → SGs → VPC
 ---
 
 ## 🖼️ Architecture Diagram
-![ALB Architecture](Alb-diagram.gif)
+![ALB Architecture](architecture/Alb-diagram.gif)
+
 
