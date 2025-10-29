@@ -30,3 +30,9 @@ Deploy an ALB with two EC2 instances behind it. Configure secure access so only 
 ## 🧹 Cleanup
 Delete ALB → Target Group → EC2s → SGs → VPC
 
+
+---
+
+## 🖼️ Architecture Diagram
+![ALB Architecture](Alb-diagram.gif)
+
